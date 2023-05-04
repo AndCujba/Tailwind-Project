@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Tailwind-Project/static/css/main.f599e042.css",
+    "main.js": "/Tailwind-Project/static/js/main.b325586b.js",
+    "static/media/img3.jpg": "/Tailwind-Project/static/media/img3.1799a7b4a3676ab2cac1.jpg",
+    "static/media/img1.jpg": "/Tailwind-Project/static/media/img1.7265b4e6eb66ff33d749.jpg",
+    "static/media/img2.jpg": "/Tailwind-Project/static/media/img2.7eff89be8c8c8877f2d4.jpg",
+    "static/media/img4.jpg": "/Tailwind-Project/static/media/img4.eeb4eabbb74560b53c0c.jpg",
+    "static/media/img8.jpg": "/Tailwind-Project/static/media/img8.f59c6a1041c5afe167b4.jpg",
+    "static/media/img6.jpg": "/Tailwind-Project/static/media/img6.5ce8492fee1468fe69f4.jpg",
+    "static/media/img7.jpg": "/Tailwind-Project/static/media/img7.423ea3fbf16a61480e9e.jpg",
+    "static/media/img5.jpg": "/Tailwind-Project/static/media/img5.5b494af428f90653d6a0.jpg",
+    "index.html": "/Tailwind-Project/index.html",
+    "main.f599e042.css.map": "/Tailwind-Project/static/css/main.f599e042.css.map",
+    "main.b325586b.js.map": "/Tailwind-Project/static/js/main.b325586b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f599e042.css",
+    "static/js/main.b325586b.js"
+  ]
+}
